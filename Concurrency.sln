@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleProcesses", "MultipleProcesses\MultipleProcesses.csproj", "{5D6609E3-B864-40E2-A15C-B0F03BDE01E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleThreads", "MultipleThreads\MultipleThreads.csproj", "{BF40F5FB-5111-4C45-8FC5-61C7D0E2037F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleThreadsPool", "MultipleThreadsPool\MultipleThreadsPool.csproj", "{D1D91BD0-C478-4B56-9200-F33D3B1D5BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleThreadsTask", "MultipleThreadsTask\MultipleThreadsTask.csproj", "{2B042229-72D0-4755-8BFB-2CA469BE7ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D6609E3-B864-40E2-A15C-B0F03BDE01E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6609E3-B864-40E2-A15C-B0F03BDE01E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6609E3-B864-40E2-A15C-B0F03BDE01E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6609E3-B864-40E2-A15C-B0F03BDE01E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF40F5FB-5111-4C45-8FC5-61C7D0E2037F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF40F5FB-5111-4C45-8FC5-61C7D0E2037F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF40F5FB-5111-4C45-8FC5-61C7D0E2037F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF40F5FB-5111-4C45-8FC5-61C7D0E2037F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D91BD0-C478-4B56-9200-F33D3B1D5BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D91BD0-C478-4B56-9200-F33D3B1D5BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D91BD0-C478-4B56-9200-F33D3B1D5BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D91BD0-C478-4B56-9200-F33D3B1D5BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B042229-72D0-4755-8BFB-2CA469BE7ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B042229-72D0-4755-8BFB-2CA469BE7ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B042229-72D0-4755-8BFB-2CA469BE7ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B042229-72D0-4755-8BFB-2CA469BE7ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
