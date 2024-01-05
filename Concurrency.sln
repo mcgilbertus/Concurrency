@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleThreadsTask", "Mult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks1", "Tasks1\Tasks1.csproj", "{6FD70915-350A-4DE9-8C2D-C47BD1A01787}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asynchrony1", "Asynchrony1\Asynchrony1.csproj", "{06979ED3-9456-48EC-8F20-231E2E255F30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{6FD70915-350A-4DE9-8C2D-C47BD1A01787}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FD70915-350A-4DE9-8C2D-C47BD1A01787}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FD70915-350A-4DE9-8C2D-C47BD1A01787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06979ED3-9456-48EC-8F20-231E2E255F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06979ED3-9456-48EC-8F20-231E2E255F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06979ED3-9456-48EC-8F20-231E2E255F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06979ED3-9456-48EC-8F20-231E2E255F30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
