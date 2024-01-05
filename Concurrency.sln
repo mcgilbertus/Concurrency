@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleThreadsPool", "Mult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleThreadsTask", "MultipleThreadsTask\MultipleThreadsTask.csproj", "{2B042229-72D0-4755-8BFB-2CA469BE7ED5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks1", "Tasks1\Tasks1.csproj", "{6FD70915-350A-4DE9-8C2D-C47BD1A01787}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{2B042229-72D0-4755-8BFB-2CA469BE7ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B042229-72D0-4755-8BFB-2CA469BE7ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B042229-72D0-4755-8BFB-2CA469BE7ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD70915-350A-4DE9-8C2D-C47BD1A01787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD70915-350A-4DE9-8C2D-C47BD1A01787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD70915-350A-4DE9-8C2D-C47BD1A01787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD70915-350A-4DE9-8C2D-C47BD1A01787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
